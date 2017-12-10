@@ -24,3 +24,6 @@ start eden_darknet
 ```
 5) You need to put an item seller to permite people buy it. I will release soon an item seller.
 
+[SCREEN]
+
+https://cdn.discordapp.com/attachments/324166954552262666/387690808494653441/Capture_decran_2017-12-02_11.53.38.png
