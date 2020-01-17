@@ -1,6 +1,6 @@
-# fxserver-eden_darknet
+# eden_darknet
 
-FXServer ESX Eden Darknet
+ESX Eden Darknet
 
 [REQUIREMENTS]
 
