@@ -6,7 +6,6 @@ TriggerEvent('esx_phone:registerNumber', 'darknet', "Dark Net", true, false, tru
 
 RegisterServerEvent('esx_phone:reload')
 AddEventHandler('esx_phone:reload', function(phoneNumber)
-
 	local _source  = source
 	local xPlayer  = ESX.GetPlayerFromId(_source)
 	local darkPhone = xPlayer.getInventoryItem('black_chip')
@@ -17,4 +16,3 @@ AddEventHandler('esx_phone:reload', function(phoneNumber)
 		end
 	end
 end)
-
